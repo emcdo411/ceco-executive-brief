@@ -71,7 +71,7 @@ These scores are intended to support an executive conversation, not to function 
 
 ## Why The Page Exists
 
-This repo supports a focused introduction to CECO leadership through Ken Jones.
+This repo supports a focused introduction to CECO leadership through Kevin Jones.
 
 The intended ask:
 
@@ -135,5 +135,5 @@ All scores are proprietary public-signal assessments. They are directional discu
 
 ## Author
 
-Prepared by Erwin Maurice McDonald as a private executive-introduction asset for Ken Jones.
+Prepared by Erwin Maurice McDonald as a private executive-introduction asset for Kevin Jones.
 
